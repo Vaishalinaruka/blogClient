@@ -1,70 +1,20 @@
-# Getting Started with Create React App
+This is a MERN Stack Blog website project. It is a full-stack project built using React, Node.js, and MongoDB. 
+It includes the use of React Hooks, Context API, functional React components, React Router Dom.
+The backend technologies used are Node.js, MongoDB, REST API using Express framework.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The Client side code is present in this blogClient repository and the Server side code is present in the blogApi repository.
 
-## Available Scripts
+<img width="960" alt="1" src="https://github.com/Vaishalinaruka/blogClient/assets/102962579/f9e7d6ee-bc2a-4f24-820a-d95e9b044ac8">
 
-In the project directory, you can run:
+<img width="960" alt="2" src="https://github.com/Vaishalinaruka/blogClient/assets/102962579/76c5b5b0-028b-4c47-811a-b861dcb8c8d7">
 
-### `npm start`
+<img width="960" alt="3" src="https://github.com/Vaishalinaruka/blogClient/assets/102962579/a14958fa-c564-4e75-ac81-b9cec20afac7">
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<img width="960" alt="4" src="https://github.com/Vaishalinaruka/blogClient/assets/102962579/7e9c9432-a9d7-40c7-96b9-441f1cd99267">
+<img width="960" alt="5" src="https://github.com/Vaishalinaruka/blogClient/assets/102962579/983a549e-5ea4-447a-b350-7e28a6c6fa52">
+<img width="960" alt="6" src="https://github.com/Vaishalinaruka/blogClient/assets/102962579/126ef446-7b95-4d9f-a37e-65650d0672e3">
+<img width="960" alt="7" src="https://github.com/Vaishalinaruka/blogClient/assets/102962579/bfa45eab-194f-47d2-83ee-b7313ff5692c">
+<img width="960" alt="8" src="https://github.com/Vaishalinaruka/blogClient/assets/102962579/1a69734b-40e3-4bda-88c9-21fc51860363">
+<img width="960" alt="9" src="https://github.com/Vaishalinaruka/blogClient/assets/102962579/8f3caf4b-1bc8-4391-856d-83ce73885ed7">
+<img width="960" alt="10" src="https://github.com/Vaishalinaruka/blogClient/assets/102962579/6534ea85-93e8-49b7-bf36-dbc0aaed2802">
+<img width="960" alt="11" src="https://github.com/Vaishalinaruka/blogClient/assets/102962579/7e7e8df2-24f3-4edd-be53-4f87c192b4df">
